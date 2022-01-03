@@ -8,6 +8,7 @@ Software: Python 3.7.7, Anaconda Navigator, Jupyter Notebook, Pandas, and Matplo
 
 ## Results 
 The figure below shows a PyBer summary DataFrame that includes the Total Rides, Total Drivers, Total Fares, Average Fare per Ride, and Average Fare per Driver for the rural, suburban and urban city types. 
+
 <img width="297" alt="2022-01-03" src="https://user-images.githubusercontent.com/92167429/147984108-cf6e2809-1111-4097-ab20-ba6b4cc5e8c1.png">
 
 This DataFrame shows urban cities rely more on rides for transportation and have the most drivers. As a result, the urban city type brings in the most revenue, $39,854.38 in total fares. The rural cities has the least amount of rides and total drivers, resulting in the lowest revenue, $4,327.93. Although rural cities have the lowest revenue, they have the highest fare per ride which may be due to the average number of miles it takes to get from one destination to another. Urban cities have the lowest average fare per ride. Another metric that is included in the DataFrame is the average fare per driver. Drivers in rural cities make almost 3 times more than a driver in an urban city. 
